@@ -1,2 +1,4 @@
-# SPRING WITH GRADLE 
+# SPRING WITH GRADLE YUDAAAAAA
 # hello-bca
+
+# hello world
